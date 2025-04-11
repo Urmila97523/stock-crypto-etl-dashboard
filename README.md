@@ -51,7 +51,7 @@ This project demonstrates how to build a complete ETL (Extract, Transform, Load)
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/market-insights-dashboard.git
+   git clone https://github.com/Urmila97523/market-insights-dashboard.git
    ```
 
 2. Set up MySQL with the required tables: `crypto_data`, `stock_data`, and `weather_data`.
